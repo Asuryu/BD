@@ -1,2 +1,2 @@
 # BD
- Trabalho prático de BD
+ Trabalho prático de Bases de Dados
