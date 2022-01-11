@@ -2035,9 +2035,9 @@ DESTINATION 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o21">
-<a:ModificationDate>1639684688</a:ModificationDate>
-<a:Rect>((-36556,-28260), (-35306,-17823))</a:Rect>
-<a:ListOfPoints>((-35931,-18223),(-35931,-27860))</a:ListOfPoints>
+<a:ModificationDate>1639684629</a:ModificationDate>
+<a:Rect>((-35491,-25785), (-1947,-21348))</a:Rect>
+<a:ListOfPoints>((-35091,-21748),(-35091,-25160),(-2347,-25160))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>11184640</a:LineColor>
@@ -2102,9 +2102,9 @@ DESTINATION 0 Arial,8,N</a:FontList>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o31">
 <a:CreationDate>1639678170</a:CreationDate>
-<a:ModificationDate>1639684674</a:ModificationDate>
-<a:Rect>((-36994,-13489), (-35744,9489))</a:Rect>
-<a:ListOfPoints>((-36369,9089),(-36369,-13089))</a:ListOfPoints>
+<a:ModificationDate>1639684576</a:ModificationDate>
+<a:Rect>((-36815,-16939), (-35565,9489))</a:Rect>
+<a:ListOfPoints>((-36190,9089),(-36190,-16539))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615680</a:LineColor>
@@ -2147,9 +2147,9 @@ DESTINATION 0 Arial,8,N</a:FontList>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o36">
 <a:CreationDate>1639678273</a:CreationDate>
-<a:ModificationDate>1639684672</a:ModificationDate>
-<a:Rect>((-8526,-17035), (-897,-15785))</a:Rect>
-<a:ListOfPoints>((-8126,-16410),(-1297,-16410))</a:ListOfPoints>
+<a:ModificationDate>1639678279</a:ModificationDate>
+<a:Rect>((-8451,-13297), (-897,-12047))</a:Rect>
+<a:ListOfPoints>((-8051,-12672),(-1297,-12672))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615680</a:LineColor>
@@ -2169,9 +2169,9 @@ DESTINATION 0 Arial,8,N</a:FontList>
 </o:ReferenceSymbol>
 <o:ReferenceSymbol Id="o39">
 <a:CreationDate>1639678275</a:CreationDate>
-<a:ModificationDate>1639684674</a:ModificationDate>
-<a:Rect>((-29041,-16448), (-23030,-15198))</a:Rect>
-<a:ListOfPoints>((-23430,-15823),(-28641,-15823))</a:ListOfPoints>
+<a:ModificationDate>1639684576</a:ModificationDate>
+<a:Rect>((-35615,-16939), (-22955,-12260))</a:Rect>
+<a:ListOfPoints>((-23355,-12660),(-34990,-12660),(-34990,-16539))</a:ListOfPoints>
 <a:CornerStyle>1</a:CornerStyle>
 <a:ArrowStyle>1</a:ArrowStyle>
 <a:LineColor>12615680</a:LineColor>
@@ -2357,9 +2357,9 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o22">
-<a:ModificationDate>1639684674</a:ModificationDate>
+<a:ModificationDate>1639684576</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-44039,-18557), (-28641,-13089))</a:Rect>
+<a:Rect>((-43889,-22007), (-28491,-16539))</a:Rect>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -2381,9 +2381,9 @@ LABL 0 Arial,8,N</a:FontList>
 </c:Object>
 </o:TableSymbol>
 <o:TableSymbol Id="o23">
-<a:ModificationDate>1639684663</a:ModificationDate>
+<a:ModificationDate>1639684539</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-42235,-27885), (-29403,-23885))</a:Rect>
+<a:Rect>((-7735,-26085), (5097,-22085))</a:Rect>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>11184640</a:LineColor>
 <a:FillColor>16777136</a:FillColor>
@@ -2506,9 +2506,9 @@ LABL 0 Arial,8,N</a:FontList>
 </o:TableSymbol>
 <o:TableSymbol Id="o37">
 <a:CreationDate>1639677902</a:CreationDate>
-<a:ModificationDate>1639684672</a:ModificationDate>
+<a:ModificationDate>1639678275</a:ModificationDate>
 <a:IconMode>-1</a:IconMode>
-<a:Rect>((-23430,-18410), (-8126,-14411))</a:Rect>
+<a:Rect>((-23355,-14660), (-8051,-10661))</a:Rect>
 <a:LineColor>12615680</a:LineColor>
 <a:FillColor>16570034</a:FillColor>
 <a:ShadowColor>12632256</a:ShadowColor>
@@ -4815,7 +4815,7 @@ DAT 1639677387</a:History>
 <a:Code>MODELO_CONCEPTUAL</a:Code>
 <a:CreationDate>1639677387</a:CreationDate>
 <a:Creator>tomas</a:Creator>
-<a:ModificationDate>1639683793</a:ModificationDate>
+<a:ModificationDate>1639677387</a:ModificationDate>
 <a:Modifier>tomas</a:Modifier>
 <a:GlobalObjectID/>
 <a:TargetModelURL>file:///%[PRJ_ROOT_DIR]%/Modelo_Conceptual.cdm</a:TargetModelURL>
